@@ -4,6 +4,7 @@
 
 - GUI 就是图形用户界面(graphical user interface)。这表示界面中有窗口、菜单、按钮、滚动条等等。没有 GUI 的程序称为文本模式(text-mode)程序、控制台(console)程序或命令行(command-line)程序。
 - 关键字(keyword)是作为 Python 语言一部分的特殊词，也称为保留字(reservedword)。
+- 每次循环称为一次迭代(iteration)。
 
 
 
@@ -18,4 +19,4 @@
 
 ### 技巧
 
-- 脚本有汉字需要用以下代码开头，否则以后可能会无法打开。   \#-*- coding: UTF-8 -*-
+- 脚本有汉字需要用以下代码开头，否则以后可能会无法打开。   #-*- coding: UTF-8 -*-
