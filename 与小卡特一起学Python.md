@@ -379,16 +379,53 @@
 > 15.4_timeRandom.py
 
 ## 第 16 章 .图形
-### 16.1 寻求帮助— Pygame.  
+### 16.1 寻求帮助— Pygame
+
+> 39_pygame.py
+
 ### 16.2 Pygame 窗口
 ### 16.3 在窗口中画图
-### 16.4 单个像素   
-### 16.5 图像   
-### 16.6 动起来   
-### 16.7 动画   
+
+> 40_drawCircle.py
+>
+> 41_drawRect.py
+>
+> 42_drawColorRect.py
+
+### 16.4 单个像素
+
+> 43_drawSineWave.py
+>
+> 44_drawSineWave.py
+>
+> 45_linePic.py
+
+### 16.5 图像
+
+> 46_beachBall.py
+
+### 16.6 动起来
+
+> 47_moveBall.py
+
+### 16.7 动画
+
+> 48_eraserBall.py
+
 ### 16.8 更流畅的动画
-### 16.9 让球反弹   
-### 16.10 让球翻转   
+
+> 49_moveBall.py
+
+### 16.9 让球反弹
+
+> 50_bounce.py
+>
+> 51_bounce.py
+
+### 16.10 让球翻转
+
+> 52_blit.py
+
 ## 第 17 章 动画精灵和碰撞检测  
 ### 17.1 动画精灵   
 ### 17.2 嘣 ! 碰撞检测   
