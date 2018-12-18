@@ -352,9 +352,32 @@
 ### 15.2 为什么使用模块
 ### 15.3 积木桶   
 ### 15.4 如何创建模块
-### 15.5 如何使用模块  
-### 15.6 命名空间   
-### 15.7 标准模块   
+
+> my_module.py
+
+### 15.5 如何使用模块
+
+> 36_modular.py
+
+### 15.6 命名空间
+
+导入命名空间(模块)有两种方法:
+
+- import StephenLeacock,   call_to_office(StephenLeacock.Fred)
+- from StephenLeacock import Fred
+
+### 15.7 标准模块
+
+> 37_time.py
+>
+> 38_random.py
+
+### 动手试一试
+
+> 15.3_random.py
+>
+> 15.4_timeRandom.py
+
 ## 第 16 章 .图形
 ### 16.1 寻求帮助— Pygame.  
 ### 16.2 Pygame 窗口
