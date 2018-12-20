@@ -483,21 +483,67 @@ Pygame sprite 模块有一个 spritecollide() 函数，它会查找一个精灵�
 > 62_PyPong.py
 
 ## 第 19 章 声音  
-### 19.1 从 Pygame 寻求更多帮助 — mixer .  
+### 19.1 从 Pygame 寻求更多帮助 — mixer 
+
+-  pygame.mixer
+
 ### 19.2 制造声音与播放声音   
-### 19.3 播放声音   
-### 19.4 控制音量   
-### 19.5 重复音乐   
-### 19.6 为 PyPong 添加声音   
-### 19.7 更多声音   
-### 19.8 为 PyPong 添加音乐   
+### 19.3 播放声音
+
+- 波形文件— 文件名以 .wav 结尾，如 hello.wav。
+- MP3 文件— 文件名以 .mp3 结尾，如 mySong.mp3。
+- WMA文件— 文件名以 .wma 结尾，如 someSong.wma。
+- Ogg Vorbis 文件— 文件名以 .ogg 结尾，如 yourSong.ogg。 
+
+> 63_mixer.py
+>
+> 64_mixer.py
+
+### 19.4 控制音量
+
+> 65_volume.py
+>
+> 66_volume.py
+
+### 19.5 重复音乐
+
+- 让音乐重复播放一定的次数, pygame.mixer.music.play(3)
+- 传入一个特殊值 -1，这会让歌曲永远重复下去, pygame.mixer.music.play(-1)
+
+### 19.6 为 PyPong 添加声音
+
+> 67_collideVoice.py
+
+### 19.7 更多声音
+
+>  67_collideVoice.py
+
+### 19.8 为 PyPong 添加音乐
+
+> 68_pongVoice.py
+
 ## 第 20 章 更多 GUI
-### 20.1 使用 PyQt   
-### 20.2 让 GUI 做点事情   
+### 20.1 使用 PyQt
+
+- pip install pyqt5
+
+> 69_pyqt.py
+
+### 20.2 让 GUI 做点事情
+
+> 70_pyqtExample.py
+>
+> 71_example.py
+>
+> MyFirstGui.py
+
 ### 20.3 事件处理器的返回  
 ### 20.4 移动按钮   
 ### 20.5 更多有用的 GUI  
-### 20.6 TempGUI   
+### 20.6 TempGUI
+
+> 72_TempGui.py
+
 ### 20.7 菜单上是什么 .  
 ## 第 21 章 打印格式化与字符串
 ### 21.1 换行   

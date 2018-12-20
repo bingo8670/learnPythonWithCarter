@@ -31,7 +31,10 @@
 - 脚本有汉字需要用以下代码开头，否则以后可能会无法打开。   #-*- coding: UTF-8 -*-
 - 如果有一个很长的语句，在一行里放不下，就可以使用反斜线字符告诉Python，这一行还没有结束下一行的内容也是这一行的一部分”。
 - **Pygame 用python3 运行。**
+- pyuic5 --preview firstgui.ui  可预览UI文件
+- pyuic5 --execute --output firstgui.py firstgui.ui  生成UI文件的py文件
 
 ### 备忘
 
 - 18_skier.py 有问题不能运行，Listing_10-1.py 替代。
+- Gui文件有bug
