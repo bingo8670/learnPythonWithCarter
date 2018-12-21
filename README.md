@@ -50,3 +50,4 @@
 
 - 18_skier.py 有问题不能运行，Listing_10-1.py 替代。
 - Gui文件有bug
+- PyQt4中的`QtGui`模块已经被分成PyQt5的[`QtGui`](http://pyqt.sourceforge.net/Docs/PyQt5/QtGui.html#PyQt5-QtGui)， [`QtPrintSupport`](http://pyqt.sourceforge.net/Docs/PyQt5/QtPrintSupport.html#PyQt5-QtPrintSupport)和[`QtWidgets`](http://pyqt.sourceforge.net/Docs/PyQt5/QtWidgets.html#PyQt5-QtWidgets)模块。

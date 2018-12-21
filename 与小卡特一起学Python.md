@@ -622,15 +622,49 @@ Pygame sprite 模块有一个 spritecollide() 函数，它会查找一个精灵�
 
 ## 第 23 章 碰运气— 随机性  
 ### 23.1 什么是随机性
-### 23.2 掷骰子   
-### 23.3 创建一副牌   
-### 23.4 Crazy Eights  
+### 23.2 掷骰子
+
+- import random
+- random.randint()
+- random.choice()
+
+> 77_random.py
+>
+> 78_random.py
+>
+> 79_tenHeadsInRow.py
+
+### 23.3 创建一副牌
+
+> 80_card.py
+>
+> 81_createCard.py
+
+### 23.4 Crazy Eights
+
+> 81_crazyEight.py
+
 ## 第 24 章 计算机仿真
+
 ### 24.1 真实世界建模
+
 ### 24.2 Lunar Lander
+
+> 82_LunarLander.py
+
 ### 24.3 跟踪时间   
-### 24.4 时间对象   
+### 24.4 时间对象
+
+- Import datetime
+
+> 83_timedelta.py
+>
+> 84_typeSpeedTest.py
+
 ### 24.5 把时间保存到文件
+
+> 85_pickleTime.py
+
 ### 24.6 电子宠物   
 ## 第 25 章 Skier 游戏的说明.
 ### 25.1 滑雪者   
